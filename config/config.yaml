@@ -3,8 +3,8 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip
-  local_data_file: C:/Users/shiva/OneDrive/Desktop/dataset2.zip
+  source_URL: https://github.com/shivamranaaa/datasets/raw/main/Weather_Dataset.zip
+  local_data_file: Weather_Dataset.zip
   unzip_dir: artifacts/data_ingestion
 
 
