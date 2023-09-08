@@ -54,7 +54,7 @@ Email: Shivamrana12321@gmail.com
 
 ```
 
-# Docker pull
+## Docker pull
 ```bash
 docker pull ghcr.io/shivamranaaa/weather-classification:main
 ```
