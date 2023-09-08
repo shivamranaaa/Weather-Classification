@@ -1,6 +1,11 @@
 # End to end Weather-Classification-Project
 
-## Workflows
+## Docker pull
+```bash
+docker pull ghcr.io/shivamranaaa/weather-classification:main
+```
+
+## Code Workflows
 
 1. Update config.yaml
 2. Update params.yaml
@@ -54,7 +59,3 @@ Email: Shivamrana12321@gmail.com
 
 ```
 
-## Docker pull
-```bash
-docker pull ghcr.io/shivamranaaa/weather-classification:main
-```
