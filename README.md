@@ -53,3 +53,8 @@ Author: Shivam
 Email: Shivamrana12321@gmail.com
 
 ```
+
+# Docker pull
+```bash
+docker pull ghcr.io/shivamranaaa/weather-classification:main
+```
